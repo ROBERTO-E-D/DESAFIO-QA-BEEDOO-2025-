@@ -14,7 +14,7 @@
 
 **Critérios de Aceite:**  
  	    	
-CA-1:                           Todos os campos obrigatórios devem existir e ser preenchidos.
+CA-1:                           Todos os campos devem ser obrigatórios e serem preenchidos.
 
 CA-2:                           A data de término (“Data Fim”) deve ser igual ou posterior à data de início.
 
@@ -65,6 +65,7 @@ Diretório com as evidências de teste
 # Relatório de Bugs #
 
 Para o relatório de bugs foi decidido pela inclusão das seções Título, Descrição, Passo a Passo, Resultado Esperado, Resultado Real, Ambiente de teste, Severidade e Evidência do erro.
+
 
 
 
