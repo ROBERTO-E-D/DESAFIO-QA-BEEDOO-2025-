@@ -14,14 +14,23 @@
 
 **Critérios de Aceite:**
 **Critério	Descrição**	
-*CA-1	    Todos os campos obrigatórios devem existir e ser preenchidos	
-*CA-2	    A data de término (“Data Fim”) deve ser igual ou posterior à data de início	
-*CA-3	    O número de vagas deve ser um número inteiro positivo	
-*CA-4	    O tipo de curso só pode ser “Presencial” ou “Online”	
-*CA-5	    Se for “Presencial”, exibe campo Endereço que é obrigatório	
-*CA-6	    Se for “Online”, exibe campo Link de Inscrição que é obrigatório	
-*CA-7	    Após salvar com sucesso, exibe mensagem de sucesso e redireciona para a listagem de cursos	
-*CA-8	    Validações de erro devem exibir mensagem clara de campo inválido	
+Critérios de Aceite
+CA-1: Todos os campos obrigatórios devem existir e ser preenchidos.
+
+CA-2: A data de término (“Data Fim”) deve ser igual ou posterior à data de início.
+
+CA-3: O número de vagas deve ser um número inteiro positivo.
+
+CA-4: O tipo de curso só pode ser “Presencial” ou “Online”.
+
+CA-5: Se o tipo for “Presencial”, deve exibir o campo Endereço, que é obrigatório.
+
+CA-6: Se o tipo for “Online”, deve exibir o campo Link de Inscrição, que é obrigatório.
+
+CA-7: Após salvar com sucesso, deve exibir mensagem de sucesso e redirecionar para a listagem de cursos.
+
+CA-8: As validações de erro devem exibir mensagem clara indicando o campo inválido
+
 # US-002: Listar cursos disponíveis #
 *Como* usuário do sistema
 *Quero* visualizar todos os cursos cadastrados
@@ -57,6 +66,7 @@ Diretório com as evidências de teste
 # Relatório de Bugs #
 
 Para o relatório de bugs foi decidido pela inclusão das seções Título, Descrição, Passo a Passo, Resultado Esperado, Resultado Real, Ambiente de teste, Severidade e Evidência do erro.
+
 
 
 
