@@ -12,16 +12,16 @@
 *Quero* cadastrar um novo curso
 *Para* que ele seja salvo no sistema e apareça na listagem de cursos
 
-*Critérios de Aceite:*
-*Critério	Descrição*	
-CA-1	    Todos os campos obrigatórios devem existir e ser preenchidos	
-CA-2	    A data de término (“Data Fim”) deve ser igual ou posterior à data de início	
-CA-3	    O número de vagas deve ser um número inteiro positivo	
-CA-4	    O tipo de curso só pode ser “Presencial” ou “Online”	
-CA-5	    Se for “Presencial”, exibe campo Endereço que é obrigatório	
-CA-6	    Se for “Online”, exibe campo Link de Inscrição que é obrigatório	
-CA-7	    Após salvar com sucesso, exibe mensagem de sucesso e redireciona para a listagem de cursos	
-CA-8	    Validações de erro devem exibir mensagem clara de campo inválido	
+**Critérios de Aceite:**
+**Critério	Descrição**	
+*CA-1	    Todos os campos obrigatórios devem existir e ser preenchidos	
+*CA-2	    A data de término (“Data Fim”) deve ser igual ou posterior à data de início	
+*CA-3	    O número de vagas deve ser um número inteiro positivo	
+*CA-4	    O tipo de curso só pode ser “Presencial” ou “Online”	
+*CA-5	    Se for “Presencial”, exibe campo Endereço que é obrigatório	
+*CA-6	    Se for “Online”, exibe campo Link de Inscrição que é obrigatório	
+*CA-7	    Após salvar com sucesso, exibe mensagem de sucesso e redireciona para a listagem de cursos	
+*CA-8	    Validações de erro devem exibir mensagem clara de campo inválido	
 # US-002: Listar cursos disponíveis #
 *Como* usuário do sistema
 *Quero* visualizar todos os cursos cadastrados
@@ -57,6 +57,7 @@ Diretório com as evidências de teste
 # Relatório de Bugs #
 
 Para o relatório de bugs foi decidido pela inclusão das seções Título, Descrição, Passo a Passo, Resultado Esperado, Resultado Real, Ambiente de teste, Severidade e Evidência do erro.
+
 
 
 
