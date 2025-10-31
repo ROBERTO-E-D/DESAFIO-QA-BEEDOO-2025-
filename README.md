@@ -13,7 +13,7 @@
 *Para* que ele seja salvo no sistema e apareça na listagem de cursos
 
 **Critérios de Aceite:**  
-**Critério	    Descrição**  	
+**Critério  	    Descrição**  	
 Critérios de Aceite  
 CA-1:           Todos os campos obrigatórios devem existir e ser preenchidos.
 
@@ -66,6 +66,7 @@ Diretório com as evidências de teste
 # Relatório de Bugs #
 
 Para o relatório de bugs foi decidido pela inclusão das seções Título, Descrição, Passo a Passo, Resultado Esperado, Resultado Real, Ambiente de teste, Severidade e Evidência do erro.
+
 
 
 
