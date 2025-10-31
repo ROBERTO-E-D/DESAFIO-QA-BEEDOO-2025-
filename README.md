@@ -1,5 +1,5 @@
 # Features: #
-[Cadastrar Curso](https://creative-sherbet-a51eac.netlify.app/new-course)
+[Cadastrar Curso](https://creative-sherbet-a51eac.netlify.app/new-course)  
 [Listar curso](https://creative-sherbet-a51eac.netlify.app/new-course)
 
 ***************************************************************************************
@@ -65,6 +65,7 @@ Diretório com as evidências de teste
 # Relatório de Bugs #
 
 Para o relatório de bugs foi decidido pela inclusão das seções Título, Descrição, Passo a Passo, Resultado Esperado, Resultado Real, Ambiente de teste, Severidade e Evidência do erro.
+
 
 
 
