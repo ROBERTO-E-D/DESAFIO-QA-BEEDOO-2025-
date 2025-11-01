@@ -55,17 +55,18 @@ CA-3	    Mensagem de sucesso ou feedback adequado após deleção
 Para os casos de testes foram utilizadas técnicas como, análise de valor limite e testes exploratórios.
 Os casos de teste estão documentados em uma planilha do Google Docs.
 
-[Link da planilha com os casos de teste](https://docs.google.com/spreadsheets/d/1r8KyP7oFtu_umz884xkz7aek-pZUdnUM/edit?gid=181685235#gid=181685235)
+[Planilha com os casos de teste](https://docs.google.com/spreadsheets/d/1r8KyP7oFtu_umz884xkz7aek-pZUdnUM/edit?gid=181685235#gid=181685235)
 
 Já as evidências contidas no diretório de teste estão nomeadas seguindo o ID da planilha acima.
 
-Diretório com as evidências de teste
-[Link do Relatório de bugs](https://docs.google.com/document/d/1A1gPVUCdqsFtWVUidKIzlMv61z5xNMiN/edit)
+
+[Relatório de bugs](https://docs.google.com/document/d/1A1gPVUCdqsFtWVUidKIzlMv61z5xNMiN/edit)
 
 ********************************************************************************************
 # Relatório de Bugs #
 
 Para o relatório de bugs foi decidido pela inclusão das seções Título, Descrição, Passo a Passo, Resultado Esperado, Resultado Real, Ambiente de teste, Severidade e Evidência do erro.
+
 
 
 
