@@ -10,9 +10,11 @@
 # US-001: Cadastrar novo curso #
 *Como* usuário do sistema de cursos
 *Quero* cadastrar um novo curso
-*Para* que ele seja salvo no sistema e apareça na listagem de cursos
+*Para* que ele seja salvo no sistema e apareça na listagem de cursos  
+
 
 **Critérios de Aceite:**  
+
  	    	
 CA-1:                           Todos os campos devem ser obrigatórios e serem preenchidos.
 
@@ -75,6 +77,7 @@ Já as evidências contidas no diretório de teste estão nomeadas seguindo o ID
 # Relatório de Bugs #
 
 Para o relatório de bugs foi decidido pela inclusão das seções Título, Descrição, Passo a Passo, Resultado Esperado, Resultado Real, Ambiente de teste, Severidade e Evidência do erro.
+
 
 
 
